@@ -1,0 +1,21 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+   }
+   
+   td {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+   }
+   
+   #reset {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 16px;
+    padding: 10px;
+   }
